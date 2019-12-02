@@ -116,9 +116,14 @@
     <Compile Include="Assets\Game\Level_Dont_Touch\Standard Assets\Utility\TimedObjectDestructor.cs" />
     <Compile Include="Assets\Game\Level_Dont_Touch\Standard Assets\Utility\WaypointCircuit.cs" />
     <Compile Include="Assets\Game\Level_Dont_Touch\Standard Assets\Utility\WaypointProgressTracker.cs" />
+    <Compile Include="Assets\Scripts\Coin.cs" />
+    <Compile Include="Assets\Scripts\Destructable.cs" />
+    <Compile Include="Assets\Scripts\GunShop.cs" />
+    <Compile Include="Assets\Scripts\HitMarker.cs" />
     <Compile Include="Assets\Scripts\MouseX.cs" />
     <Compile Include="Assets\Scripts\MouseY.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
+    <Compile Include="Assets\Scripts\UIManager.cs" />
     <None Include="Assets\Game\Level_Dont_Touch\Environment_Model\Fonts\OFL.txt" />
     <None Include="Assets\Game\Level_Dont_Touch\Environment_Model\Cinema Suite\Documents\CinemaThemesReadMe.txt" />
     <None Include="Assets\Game\Level_Dont_Touch\Environment_Model\Effects\hit_marker_particle\Shaders\PriorityParticleAlpha.shader" />
